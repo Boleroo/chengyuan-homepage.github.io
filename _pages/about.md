@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a second-year Master's student in Electrical and Computer Engineering at Duke University, with a background in Software Engineering. My interests lie in building reliable and secure software systems, with a particular focus on the robustness and security of LLM-based applications. Through research and engineering projects, I have gained hands-on experience in LLM agent development, embodied AI security, and distributed systems. My technical background includes Python, Java, C++, and SQL, along with practical experience in backend development, AI applications, and computer security.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<span class='anchor' id='publications'></span>
+# Publications 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 Workshop</div><img src='https://arxiv.org/html/2409.13174v4/consolidated_v3.png' alt="Physical Vulnerability Evaluating Pipeline (PVEP) framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](https://arxiv.org/abs/2409.13174) (Accepted by IROS 2025 Workshop on Building Safe Robots)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hao Cheng, Erjia Xiao, Yichi Wang, **Chengyuan Yu**, Mengshu Sun, Qiang Zhang, Jiahang Cao, Yijie Guo, Ning Liu, Kaidi Xu, Jize Zhang, Chao Shen, Philip Torr, Jindong Gu, Renjing Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2409.13174) / [**Project**](https://chaducheng.github.io/Manipulate-Facing-Threats/)
+- We introduce the Physical Vulnerability Evaluating Pipeline (PVEP) to evaluate the robustness of vision-language-action models against out-of-distribution inputs, typography-based visual prompts, and adversarial patch attacks.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='https://junzhou-chen.github.io/images/NetWork.svg' alt="HARU-Net network architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Enhancing Nucleus Segmentation with HARU-Net: A Hybrid Attention Based Residual U-Blocks Network](https://arxiv.org/abs/2308.03382)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Junzhou Chen, Qian Huang, Yulin Chen, Linyi Qian, **Chengyuan Yu**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Paper**](https://arxiv.org/abs/2308.03382) 
+- We propose HARU-Net, a dual-branch nucleus instance segmentation network with hybrid-attention residual U-blocks and context fusion, designed to handle irregular and overlapping nuclei.
+</div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='education'></span>
+# Education
+- *2025.08 - 2027.05 (now)*, Duke University, M.S. in Electrical and Computer Engineering. 
+- *2021.09 - 2025.06*, Hohai University, B.E. in Software Engineering. 
+
+<span class='anchor' id='internships'></span>
+# Internships
+- *2026.08 - Now*, Teaching Assistant for 26FALL ECE590 - Algorithm Course, Durham, NC, USA
+- *2026.07 - 2026.07*, Alibaba AI Summer Camp, Nanjing, China
+- *2024.04 - 2024.09*, Research Assistant at Hong Kong University of Science and Technology (Guangzhou), Remote
+- *2024.01 - 2024.02*, AI Algorithm Intern at Profeta, Nanjing, China
+
+<span class='anchor' id='coursework'></span>
+# CourseWork
+- *ECE 560: Computer Information and Security*
+- *COMPSCI 512: Distributed System*
+- *COMPSCI 575: Natural Language Processing*
+- *ECE 566: Enterprise Storage Architecture*
+- *ECE 568: Engineering Robust Server Software*
+- *ECE 651: Software Engineering*
+- *ECE 550D: Fundamentals of Computer Systems and Engineering*
+- *ECE 551D: Data Structure and Algorithm*
+- *ECE 590: Advanced Topics in Algorithm*
